@@ -1,0 +1,2 @@
+- opa sou o @Samukao
+- estou apredendo a programar 
