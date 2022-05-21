@@ -2,6 +2,6 @@
 - estou apredendo a programar 
 
 <div>
-<img aling="center" alt="Scrath"  height="30" width="40" src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-b
+<img align="center" alt="Scrath"  height="30" width="40" src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-b
 adge&logo=Scratch&logoColor=white">
   </div><br>
