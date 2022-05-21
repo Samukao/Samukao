@@ -6,11 +6,5 @@
 <div>
 <img align="center" alt="Scrath" height="30" width="50" src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white">
   </div><br>
- ​
-6
-<div>
-7
-<img align="center" alt="Scrath" height="30" width="50" src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white">
-8
-  </div><br>
-9
+
+
