@@ -4,9 +4,9 @@
 
 
 <div>
-<img align="center" alt="Scrath" height="30" width="80" src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white">
+<img align="center" alt="Scrath" height="50" width="80" src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white">
   </div><br>
 
 
 <div>
-<img align="center" alt="Java" height="30" width="80" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img align="center" alt="Java" height="50" width="80" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
