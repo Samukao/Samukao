@@ -9,5 +9,5 @@
 
 
 <div>
-<img align="center" alt="Java" height="50" width="80" src="https://user-images.githubusercontent.com/105827692/172730274-a1f4d953-934f-42b9-bfa4-ceab21d78a5a.png">
+<img align="center" alt="Java" height="50" width="40" src="https://user-images.githubusercontent.com/105827692/172730274-a1f4d953-934f-42b9-bfa4-ceab21d78a5a.png">
 
